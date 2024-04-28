@@ -1,0 +1,6 @@
+edited .xml changed 1.7 to 1.8 in two places this eliminated 
+warning that Computer compliance specification is 1.7 but JRE is 1.8,
+but mvn clean package now had empty jar.
+[WARNING] JAR will be empty - no content was marked for inclusion
+This is because their is no directory structure. all files are in root
+directory.Compiler can't find source file.

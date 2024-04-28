@@ -1,0 +1,16 @@
+ perry@perry-Latitude-E6520:~/Documents/GitHub/hello-world$ mvn clean package
+        BUILD SUCCESS
+ 
+perry@perry-Latitude-E6520:~/Documents/GitHub/hello-world$ java -jar target/helloWorl
+d-1.0-SNAPSHOT.jar
+This is a Hello World Test
+
+ This is ver 24.4.24
+ 
+ perry@perry-Latitude-E6520:~/Documents/GitHub/hello-world$ cd
+perry@perry-Latitude-E6520:~$ java -jar Documents/GitHub/hello-world/target/helloWorl
+d-1.0-SNAPSHOT.jar
+This is a Hello World Test
+
+ This is ver 24.4.24
+perry@perry-Latitude-E6520:~$ 
