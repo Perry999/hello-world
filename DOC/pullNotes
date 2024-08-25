@@ -1,0 +1,15 @@
+perry@perry-Latitude-E6520:~/Documents/GitHub/hello-world$ gh pr create --assignee @me --title "rev-1" --body " revided this file on 08-25-24"
+? Where should we push the 'ver-2' branch? Perry999/hello-world
+
+Creating pull request for ver-2 into master in Perry999/hello-world
+
+To https://github.com/Perry999/hello-world.git
+   2e861dd..c3a3dbc  HEAD -> ver-2
+Branch 'ver-2' set up to track remote branch 'ver-2' from 'origin'.
+https://github.com/Perry999/hello-world/pull/1
+perry@perry-Latitude-E6520:~/Documents/GitHub/hello-world$ 
+perry@perry-Latitude-E6520:~/Documents/GitHub/hello-world$ java -jar target/helloWorld-1.0-SNAPSHOT.jar
+This is a Hello World Test
+
+ This is ver 24.8.18
+perry@perry-Latitude-E6520:~/Documents/GitHub/hello-world$ mvn clean package
